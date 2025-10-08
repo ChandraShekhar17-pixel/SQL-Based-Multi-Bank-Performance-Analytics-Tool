@@ -55,5 +55,4 @@ The Multi-Bank Performance Analytics Tool leverages MySQL to analyze transaction
 
 - Integrating temporal analytics and trend forecasting via machine learning models.
 - Expanding schema for deeper demographic segmentation and richer transaction metadata.
-# SQL-Based-Multi-Bank-Performance-Analytics-Tool
-,,,,,,,,,,,,,,
+
