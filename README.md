@@ -4,7 +4,7 @@ A comprehensive SQL-powered analytics solution for comparing key performance met
 
 ## Project Overview
 
-The Multi-Bank Performance Analytics Tool leverages MySQL to analyze transactional, customer, and product data across diverse banks and branches. It automates complex business intelligence queries—revenue, retention, RFM analysis, payment behaviors, and holiday impacts enabling optimal decisions on product offerings and customer targeting.
+The Multi-Bank Performance Analytics Tool leverages MySQL to analyze transactional, customer, and product data across diverse banks and branches. It automates complex business intelligence queries revenue, retention, RFM analysis, payment behaviors, and holiday impacts enabling optimal decisions on product offerings and customer targeting.
 
 ## Features
 
